@@ -1,2 +1,3 @@
 # Analise-do-dataset-Impacto-da-ia-nos-estudantes-
-Analise dp data set desponibilizado no Kaggle sobre o impacto da ia nos estudantes.
+
+Atualmente, a presença de agentes de inteligência artificais estão se ploriferando cada vez mais na sociedade, seja no cotidiano; nas industrias e escritórios; ou em maios acadêmicos. Visando esse último cenário, realizo aqui uma analise que teve como o _dataset_ "Impact of Ai on Students", disponibilizado pelo usuário @laveshjadon. O _dataset_ apresenta dados que simulam a realidade de 50,000 (cinquenta mil) estudantes de diversas áreas de uma universidade X. A base de dados apresenta colunas com temas de: Identificador dos estudantes; Perfil acadêmico; Comportamento de uso da I.A; Comportamento de estudos; Contexto constitucional e Saúde mental.
