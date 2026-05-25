@@ -7,20 +7,24 @@ df = pd.read_csv(r'ai_student_impact_dataset.csv', delimiter=',')
 
 print(df.describe())
 print(df.info())
+colors_list = ['#ff7675', '#74b9ff', '#55efc4', '#ffeaa7', "#af5aa4"]
+
 
 def mejor_category_students():
-    category = df['Major_Category'].value_counts()
-    bars = plt.barh(category.index, category.values, color="skyblue")
-    plt.title('Qntd de alunos em cada área')
-    
-    plt.gca().invert_yaxis()
+    bars = sns.countplot(y='Major_Category', data=df, order=df['Major_Category'].value_counts().index(), hue='Mejor_Category', palette=colors_list)
+    plt.title('Qtd de alunos em cada área', pad=15, fontweight='bold')
+
+    plt.xlabel('')
+    plt.ylabel('')
     plt.xticks([])
     plt.grid(False)
-    plt.gca().spines['top'].set_visible(False)
-    plt.gca().spines['right'].set_visible(False)
-    plt.gca().spines['left'].set_visible(False)
-    plt.gca().spines['bottom'].set_visible(False)
-    plt.bar_label(bars, padding=3, fontsize=10, fontweight='bold')
+
+    for spine in plt.gca().splines.values():
+        spine.set_visible(False)
+
+    for container in plt.gca().containers:
+        plt.gca().bar_label(container, padding=3, fontsize=10, fontweight='bold')
+
     plt.show()
 
 def proportion_category_students():
@@ -30,7 +34,7 @@ def proportion_category_students():
     if len(proportions) == 1:
         axes = [axes]
 
-    colors_list = ['#ff7675', '#74b9ff', '#55efc4', '#ffeaa7', "#af5aa4"]
+    
     back_collor = '#dfe6e9'
 
     for i, (categoria, valor) in enumerate(proportions.items()):
