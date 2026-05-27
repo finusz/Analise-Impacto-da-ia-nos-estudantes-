@@ -18,7 +18,7 @@ Figura 1.1 - Proporção de alunos por curso
 
 Autor: Elaboração prória
 
-  Tendo em mente como os estudantes estão distribuidos e quais são os maiores grupos apresentados, nota-se que majotoriamente os grupos com maiores populações são de exatas. E consequentemente, passamos a questionar se eles também são os que mais utilizando I.A, o que pode-se ser observado no boxblot a seguir, em que apresentam as maiores médias de horas semanais de utilização de I.A, como também os maiores pontos máximos (_Outliers_). E em comparação a métodos de estudos tradicionais, vemos que são os que tem a menores médias semanais.
+  Tendo em mente como os estudantes estão distribuidos e quais são os maiores grupos apresentados, nota-se que majotoriamente os grupos com maiores populações são de exatas. E consequentemente, passamos a questionar se eles também são os que mais utilizando I.A, o que pode-se ser observado no boxblot a seguir, em que apresentam as maiores médias de horas semanais de utilização de I.A, como também os maiores pontos máximos (_Outliers_). E em comparação a métodos de estudos tradicionais, percebe-se que são os que tem as menores médias semanais de estudo tradicional.
 
 Figura 1.2 - Distribuição de Horas Semanais de Uso de I.A por Curso
 
