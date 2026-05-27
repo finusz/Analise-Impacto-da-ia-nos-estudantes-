@@ -1,4 +1,4 @@
-<img width="1389" height="515" alt="image" src="https://github.com/user-attachments/assets/2371e423-5ae6-42e1-aa24-a56decdfed98" /># Analise-do-dataset-Impacto-da-ia-nos-estudantes-
+# Analise-do-dataset-Impacto-da-ia-nos-estudantes-
 
   Atualmente, a presença de agentes de inteligência artificais (I.A) estão se ploriferando cada vez mais na sociedade, seja no cotidiano; nas industrias e escritórios; ou em maios acadêmicos. Visando esse último cenário, realizo aqui uma analise que teve como o _dataset_ "Impact of Ai on Students", disponibilizado pelo usuário @laveshjadon. O _dataset_ apresenta dados que simulam a realidade de 50.000 (cinquenta mil) estudantes de diversas áreas de uma universidade X. A base de dados apresenta colunas com temas de: Identificador dos estudantes; Perfil acadêmico; Comportamento de uso da I.A; Comportamento de estudos; Contexto constitucional e Saúde mental.
 
@@ -51,5 +51,13 @@ Autor: Elaboração própria
 
   Consequentemente quando analisamos a média geral (GPA) dos estudantes ao longo do semestre, vemos uma mudança significativa, com as notas ocilando de 3 a 4 — sendo 4 a nota máxima —, para estar majitoriamente concentrada na nota 4. Isso, obviamente, gera algumas dúvidas em retenção dos alunos e o quanto realmente estão aprendendo, porem, nos é apresentado que —numa escala de 1 a 100—, mesmo com o uso constante de I.A, a retenção dos estudantes é, de fato, alta, e quando vemos ela ao final do semestre, vemos que há dois pontos de concentração, o primeiro, menor, entre 60 e 80, e o maior de 100 com um pico alto de estudantes.
 
-<img width="1389" height="515" alt="image" src="https://github.com/user-attachments/assets/d6249c95-0b71-478e-890f-bec122e8205f" /> <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/e445b4fe-23e0-46b4-bf1f-db543d56c83e" />
+<img width="1389" height="515" alt="image" src="https://github.com/user-attachments/assets/d6249c95-0b71-478e-890f-bec122e8205f" />
+
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/e445b4fe-23e0-46b4-bf1f-db543d56c83e" />
+
+  Ademais, vemos que, o nível de ansiedade, numa escala de 1 a 10, se concentra na média, oscilando de 3 a 5. E o risco de burnout também varia principalmente de médio a baixo entre os estudantes.
+
+<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/a2f6a67a-744b-42e8-b714-e2baff3862f1" />
+
+<img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/37d5d237-b86a-45ae-bb66-0ab9cde2cad1" />
 
