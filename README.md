@@ -66,7 +66,7 @@
 
 |Figura 3.1 - Proporção de alunos por curso|
 | :---: |
-| <img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/1cc4c0a8-fd5b-43bf-93b7-8ae08097abef" /> |
+| <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/1cc4c0a8-fd5b-43bf-93b7-8ae08097abef" /> |
 | *Autor: Elaboração própria* |
 
   Essa percepção dos estudantes pode ser pelas seguintes fatores comportamentais:
@@ -76,7 +76,7 @@
 
 |Figura 3.1 - Proporção de alunos com assinatura em serviços I.A|
 | :---: |
-| <img width="45%" src="https://github.com/user-attachments/assets/8cd02945-0c5f-46ab-a58c-4ce248cbb5e1" /> |
+| <img width="560" height="515" src="https://github.com/user-attachments/assets/8cd02945-0c5f-46ab-a58c-4ce248cbb5e1" /> |
 | *Autor: Elaboração própria* |
 
 | Figura 3.2 - Auto Classificação de engenharia de Prompt | Figura 3.3 - Horas Semanais de Estudo Tradicional |
