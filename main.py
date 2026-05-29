@@ -1,1 +1,15 @@
+from util import *
 
+mejor_category_students()
+proportion_category_students()
+gpa_frequency()
+weeky_hours_distribution()
+traditionalStudy_hours_distribution()
+institutional_policy()
+paid_IA_subscription()
+prompt_engineering_skill()
+Primary_Use_Case()
+perceived_ai_dependency()
+anxiety_level_during_exams()
+bournout_risk_level()
+skill_retention_score()
