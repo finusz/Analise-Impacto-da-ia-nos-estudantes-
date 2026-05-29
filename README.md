@@ -74,24 +74,39 @@
   * **Engenharia de Prompt:** A maioria se classifica como iniciante e intermediário, com apenas 27.6% (13809 estudantes) se classificando estando no nível avançado; 
   * **Casos de Uso Primários:** O principal foco de uso está no suporte, como depuração de código (debugging), escrita/rascunho de textos (copywriting) e geração de ideias (ideation). O uso para obter respostas diretas prontas ou resumos simples é minoritário. 
 
-<p id="combos-uso" align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/8cd02945-0c5f-46ab-a58c-4ce248cbb5e1" />
-</p>
+|Figura 3.1 - Proporção de alunos com assinatura em serviços I.A|
+| :---: |
+| <img width="45%" src="https://github.com/user-attachments/assets/8cd02945-0c5f-46ab-a58c-4ce248cbb5e1" /> |
+| *Autor: Elaboração própria* |
 
 | Figura 3.2 - Auto Classificação de engenharia de Prompt | Figura 3.3 - Horas Semanais de Estudo Tradicional |
 | :---: | :---: |
 | <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/eec48ef4-c68d-4a7b-a698-9f38a238daaa" /> | <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/96e7d0e7-66c5-47ef-ad5f-8d263a252edf" /> |
 | *Autor: Elaboração própria* | *Autor: Elaboração própria* |
 
-  Consequentemente quando analisamos a média geral (GPA) dos estudantes ao longo do semestre, vemos uma mudança significativa, com as notas ocilando de 3 a 4 — sendo 4 a nota máxima —, para estar majitoriamente concentrada na nota 4. Isso, obviamente, gera algumas dúvidas em retenção dos alunos e o quanto realmente estão aprendendo, porem, nos é apresentado que —numa escala de 1 a 100—, mesmo com o uso constante de I.A, a retenção dos estudantes é, de fato, alta, e quando vemos ela ao final do semestre, vemos que há dois pontos de concentração, o primeiro, menor, entre 60 e 80, e o maior de 100 com um pico alto de estudantes.
+---
 
-<img width="1389" height="515" alt="image" src="https://github.com/user-attachments/assets/d6249c95-0b71-478e-890f-bec122e8205f" />
+## 4. Impacto Acadêmico e Saúde Mental
 
-<img width="560" height="515" alt="image" src="https://github.com/user-attachments/assets/e445b4fe-23e0-46b4-bf1f-db543d56c83e" />
+  Ao analisar a média ponderada geral (GPA) dos estudantes ao longo do semestre, vemos uma mudança significativa. As notas que oscilavam de 3.0 a 4.0, passaram a se concetrar na noxa máxima (4.0) ao fim do semestre. Essa mudança pode gerar dúvidas sobre a retenção dos alunos e o quanto estão aprendendo. Porem, as méticas de retenção de habilidad idicam dois pontos de acumulos: um intermediário (entre 60 a 80) e um pico massivo próximo a pontuação máxima (100).
 
-  Ademais, vemos que, o nível de ansiedade, numa escala de 1 a 10, se concentra na média, oscilando de 3 a 5. E o risco de burnout também varia principalmente de médio a baixo entre os estudantes.
+|Figura 4.1 - Comparação do GPA ao começo e final do semestre|
+| :---: |
+| <img width="1389" height="515" alt="image" src="https://github.com/user-attachments/assets/d6249c95-0b71-478e-890f-bec122e8205f" /> |
+| *Autor: Elaboração própria* |
 
-<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/a2f6a67a-744b-42e8-b714-e2baff3862f1" />
+|Figura 4.2 - Retenção dos alunos ao final do semestres|
+| :---: |
+| <img width="560" height="515" alt="image" src="https://github.com/user-attachments/assets/e445b4fe-23e0-46b4-bf1f-db543d56c83e" /> |
+| *Autor: Elaboração própria* |
 
-<img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/37d5d237-b86a-45ae-bb66-0ab9cde2cad1" />
+ Por fim, analisando o uso da tecnologia com os indicadores psicológicos, nota-se estabilidade:
+* O nível de ansiedade durante os exames (escala de 1 a 10) mantém-se controlado na média, oscilando entre 3 e 5.
+* O risco de burnout entre os estudantes varia predominantemente entre os níveis baixo e médio.
 
+|Figura 4.3 - Pontuação de ansiedade durante os exames | Figura 4.4 - Nível de Risco de Burnout|
+| :---: | :---: |
+| <img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/a2f6a67a-744b-42e8-b714-e2baff3862f1" />| <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/37d5d237-b86a-45ae-bb66-0ab9cde2cad1" /> |
+| *Autor: Elaboração própria* | *Autor: Elaboração própria* |
+
+---
