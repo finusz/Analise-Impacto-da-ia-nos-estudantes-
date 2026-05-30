@@ -64,7 +64,7 @@
   Apesar de utilizarem I.A. por longos periodos, os estudantes não se percebem dependentes da ferramenta. Em uma autoavaliação de 1 a 10, as respostas ficaram concentradas entre os níveis 2 e 4, com poucos relatos de dependência extrema.
 
 
-|Figura 3.1 - Proporção de alunos por curso|
+|Figura 3.1 - Dependência perspectiva da I.A.|
 | :---: |
 | <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/1cc4c0a8-fd5b-43bf-93b7-8ae08097abef" /> |
 | *Fonte: Elaboração própria (2026)* |
