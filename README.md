@@ -24,7 +24,7 @@
 | Figura 1.1 -  Posição da instituição em relação a I.A.|
 | :---: |
 | <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/26e16968-606b-4299-8b79-660878644c9c" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
   Dos estudantes analisados, a área de estudos deles foi divida em 5, sendo elas: 
   * **STEM (Ciência, tecnologia, engenharia e matemática):** 15059 estudantes (30%);
@@ -38,12 +38,12 @@
 | Figura 1.2 - Quantidade de alunos por curso |
 | :---: |
 | <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/6ca83e38-9b16-4ecb-b85d-c1b2fd1e84a8" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
 |Figura 1.3 - Proporção de alunos por curso|
 | :---: |
 | <img width="1389" height="388" alt="image" src="https://github.com/user-attachments/assets/e9e7d42e-707d-4b61-a397-0d291ea372a6" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
 ---
 
@@ -55,7 +55,7 @@
 | Figura 2.1 - Horas Semanais de Uso de I.A. | Figura 2.2 - Horas Semanais de Estudo Tradicional |
 | :---: | :---: |
 | <img width="675" height="430" alt="Uso de IA por curso" src="https://github.com/user-attachments/assets/d0789b11-9f03-4325-b9b6-b24314d49cc9" /> | <img width="675" height="430" alt="Estudo tradicional por curso" src="https://github.com/user-attachments/assets/732d8ae6-3989-470e-8c24-f387bf81ba3e" /> |
-| *Autor: Elaboração própria* | *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* | *Fonte: Elaboração própria (2026)* |
 
 ---
 
@@ -67,7 +67,7 @@
 |Figura 3.1 - Proporção de alunos por curso|
 | :---: |
 | <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/1cc4c0a8-fd5b-43bf-93b7-8ae08097abef" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
   Essa percepção dos estudantes pode ser pelos seguintes fatores comportamentais:
   * **Assinatura Paga:** Menos da metade dos estudantes (47.7%) possuem alguma assinatura em serviços de I.A., logo, possuem recursos limitados da ferramenta;
@@ -77,12 +77,12 @@
 |Figura 3.1 - Proporção de alunos com assinatura em serviços I.A.|
 | :---: |
 | <img width="560" height="515" src="https://github.com/user-attachments/assets/8cd02945-0c5f-46ab-a58c-4ce248cbb5e1" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
 | Figura 3.2 - Auto Classificação de engenharia de Prompt | Figura 3.3 - Casos de Uso Primários da I.A. |
 | :---: | :---: |
 | <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/eec48ef4-c68d-4a7b-a698-9f38a238daaa" /> | <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/96e7d0e7-66c5-47ef-ad5f-8d263a252edf" /> |
-| *Autor: Elaboração própria* | *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* | *Fonte: Elaboração própria (2026)* |
 
 ---
 
@@ -93,12 +93,12 @@
 |Figura 4.1 - Comparação do GPA ao começo e final do semestre|
 | :---: |
 | <img width="1389" height="515" alt="image" src="https://github.com/user-attachments/assets/d6249c95-0b71-478e-890f-bec122e8205f" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
 |Figura 4.2 - Retenção dos alunos ao final do semestres|
 | :---: |
 | <img width="560" height="515" alt="image" src="https://github.com/user-attachments/assets/e445b4fe-23e0-46b4-bf1f-db543d56c83e" /> |
-| *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* |
 
  Por fim, analisando o uso da tecnologia com os indicadores psicológicos, nota-se estabilidade:
 * O nível de ansiedade durante os exames (escala de 1 a 10) mantém-se controlado na média, oscilando entre 3 e 5.
@@ -107,6 +107,6 @@
 |Figura 4.3 - Pontuação de ansiedade durante os exames | Figura 4.4 - Nível de Risco de Burnout|
 | :---: | :---: |
 | <img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/a2f6a67a-744b-42e8-b714-e2baff3862f1" />| <img width="507" height="390" alt="image" src="https://github.com/user-attachments/assets/37d5d237-b86a-45ae-bb66-0ab9cde2cad1" /> |
-| *Autor: Elaboração própria* | *Autor: Elaboração própria* |
+| *Fonte: Elaboração própria (2026)* | *Fonte: Elaboração própria (2026)* |
 
 ---
